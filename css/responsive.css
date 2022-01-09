@@ -1,0 +1,248 @@
+/*All Laptop Desktop device*/
+@media screen and (max-width: 1024px) {
+	/*code start*/
+
+	/*code End*/
+}
+/*All Tablet Device and seface Duo*/
+@media screen and (max-width: 768px) {
+	/*code start*/
+		.header-top .navbar-light .navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+}
+.header-top .navbar-light .navbar-nav .nav-link:after {
+    display: none;
+}
+.menu-area .navbar-light .navbar-nav .nav-link:after{
+
+	display: none;
+}
+.menu-area .notification .star:before{
+	display: none;
+}
+.menu-area .notification span:after{
+	display: none;
+}
+.main-footer .footer-menu{
+	text-align: left;
+}
+
+.main-footer .footer-add h4{
+	
+}
+.main-footer .footer-add p{
+	
+}
+.payment-img{
+	text-align: left;
+}
+.main-footer .footer-add {
+    border-bottom: 1px dotted #1c1c1c;
+}
+.subscribe-area .subscribe {
+    width: 50%;
+    margin: 10px 0px;
+}
+.subscribe-area .text-right {
+	text-align: left;
+}
+.special-img{
+	text-align: center;
+}
+.card-sell .col-lg-3{
+	max-width: 50% !important;
+}
+.main-footer .col-sm-2 {
+    padding: 0px;
+    width: 5%;
+}
+.sorted-area .Brands{
+	margin-bottom: 10px;
+}
+
+
+	/*code End*/
+}
+/*All Mobile Device lg,mi,iphone,moto,*/
+@media screen and (max-width: 480px) {
+	/*code start*/
+	.special-img{
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.header-top .navbar-light .navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+}
+.header-top .navbar-light .navbar-nav .nav-link:after {
+    display: none;
+}
+.menu-area .navbar-light .navbar-nav .nav-link:after{
+
+	display: none;
+}
+.menu-area .notification .star:before{
+	display: none;
+}
+.menu-area .notification span:after{
+	display: none;
+}
+.banner-area .banner-text h6{
+	margin: 0px auto;
+	width: 18%;
+}
+.banner-area .banner-text h2{
+	font-size: 25px;
+	line-height: 35px;
+	margin-top: 10px;
+}
+.banner-area .banner-text{
+	text-align: center;
+}
+.banner-area .banner-text p{
+	width: 70%;
+	margin: 0px auto;
+}
+.banner-area .banner-icon{
+	margin-top: 10px;
+}
+.menu-area .notification {
+    margin: 0px 20px 10px 15px;
+}
+.new-arivels .btn-info{
+	
+}
+.new-arivels .text-right{
+	text-align: center;
+}
+.new-arivels h4{
+	font-size: 20px;
+	text-align: center;
+}
+
+.new-arivels .card{
+	margin-bottom: 20px;
+
+}
+.review-area .r-img{
+	width: 30%;
+}
+.new-arivels{
+	padding: 20px 0px;
+}
+.main-footer .footer-menu{
+	text-align: center;
+}
+.main-footer .footer-add h4{
+	text-align: center;
+}
+.main-footer .footer-add p{
+	text-align: center;
+}
+.payment-img{
+	text-align: center;
+}
+.main-footer .footer-add {
+    border-bottom: 1px dotted #1c1c1c;
+}
+.subscribe-area .subscribe {
+    width: 70%;
+    margin: 10px auto;
+}
+.subscribe-area .text-right .social-icon {
+    text-align: center;
+}
+.sorted-area .Brands{
+	margin-bottom: 10px;
+}
+.card-sell .col-lg-3{
+	max-width: 100% !important;
+}
+/*code End*/
+}
+/*mini Device Galaxy fold And Mini Phone*/
+@media screen and (max-width: 320px) {
+	/*code start*/
+.header-top .navbar-light .navbar-toggler {
+    color: #fff;
+    border-color: #fff;
+}
+.header-top .navbar-light .navbar-nav .nav-link:after {
+    display: none;
+}
+.menu-area .navbar-light .navbar-nav .nav-link:after{
+
+	display: none;
+}
+.menu-area .notification .star:before{
+	display: none;
+}
+.menu-area .notification span:after{
+	display: none;
+}
+.banner-area .banner-text h6{
+	margin: 0px auto;
+	width: 18%;
+}
+.banner-area .banner-text h2{
+	font-size: 25px;
+	line-height: 35px;
+	margin-top: 10px;
+}
+.banner-area .banner-text{
+	text-align: center;
+}
+.banner-area .banner-text p{
+	width: 70%;
+	margin: 0px auto;
+}
+.banner-area .banner-icon{
+	margin-top: 10px;
+}
+.menu-area .notification {
+    margin: 0px 20px 10px 15px;
+}
+.new-arivels .btn-info{
+	
+}
+.new-arivels .text-right{
+	text-align: center;
+}
+.new-arivels h4{
+	font-size: 20px;
+	text-align: center;
+}
+
+.new-arivels .card{
+	margin-bottom: 20px;
+
+}
+.review-area .r-img{
+	width: 30%;
+}
+.new-arivels{
+	padding: 20px 0px;
+}
+.main-footer .footer-add h4{
+	text-align: center;
+}
+.main-footer .footer-add p{
+	text-align: center;
+}
+.main-footer .footer-menu{
+	text-align: center;
+}
+.payment-img{
+	text-align: center;
+}
+.main-footer .footer-add {
+    border-bottom: 1px dotted #1c1c1c;
+}
+.subscribe-area .subscribe {
+    width: 85%;
+    margin: 10px auto;
+}
+
+/*code End*/
+}
